@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  llamacalc:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: llamacalc:latest
+    volumes:
+      - ./data:/app/data
+    stdin_open: true  # Keep STDIN open
+    tty: true  # Allocate a pseudo-TTY
+    command: ["--interactive"]
+    environment:
+      - PYTHONUNBUFFERED=1

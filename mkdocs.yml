@@ -1,0 +1,88 @@
+site_name: LlamaCalc Documentation
+site_description: Documentation for LlamaCalc, an advanced relevance scoring tool for LLM-generated responses
+site_author: LlamaSearch.AI
+site_url: https://llamasearch.github.io/llamacalc/
+
+repo_name: llamasearch/llamacalc
+repo_url: https://github.com/llamasearch/llamacalc
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            show_source: true
+            show_root_heading: true
+  - git-revision-date-localized:
+      type: date
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/llamasearch
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/llamasearch
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Getting Started:
+      - Command Line Interface: cli.md
+      - Python API: api.md
+  - User Guide:
+      - Scoring Methodology: scoring.md
+      - Customization: customization.md
+      - Performance: performance.md
+  - Examples: examples.md
+  - API Reference:
+      - Core Functions: reference/core.md
+      - Caching: reference/cache.md
+      - CLI: reference/cli.md
+  - Contributing: ../CONTRIBUTING.md
+  - License: ../LICENSE 

@@ -1,0 +1,32 @@
+{
+  "pairs": [
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris. It is located in the north-central part of the country on the Seine River and is one of the world's major cultural and artistic centers."
+    },
+    {
+      "question": "How does photosynthesis work?",
+      "answer": "Photosynthesis is the process by which plants convert light energy into chemical energy. Using chlorophyll in their leaves, plants capture sunlight and use it to convert water and carbon dioxide into glucose and oxygen. The glucose serves as food for the plant, while oxygen is released as a byproduct."
+    },
+    {
+      "question": "What causes climate change?",
+      "answer": "Climate change is primarily caused by human activities that increase greenhouse gas concentrations in the atmosphere. The burning of fossil fuels like coal, oil, and gas releases carbon dioxide, which traps heat in the atmosphere. Deforestation, industrial processes, and some agricultural practices also contribute to the problem."
+    },
+    {
+      "question": "Why is the sky blue?",
+      "answer": "The sky appears blue because air molecules scatter sunlight. Specifically, they scatter shorter wavelengths of light (blue) more than longer wavelengths (red). This phenomenon, called Rayleigh scattering, causes the blue light to be scattered across the sky, making it appear blue to our eyes."
+    },
+    {
+      "question": "What is artificial intelligence?",
+      "answer": "Artificial intelligence refers to systems or machines that mimic human intelligence to perform tasks and can iteratively improve themselves based on the information they collect. AI encompasses various technologies including machine learning, natural language processing, computer vision, and robotics."
+    },
+    {
+      "question": "How do vaccines work?",
+      "answer": "Vaccines work by introducing a weakened or inactive part of a pathogen into the body, which triggers an immune response. This causes the body to produce antibodies that recognize and fight that specific disease-causing organism. If the real pathogen enters the body in the future, the immune system is prepared to quickly destroy it before illness develops."
+    },
+    {
+      "question": "What is quantum computing?",
+      "answer": "Quantum computing is a type of computation that harnesses the unique behavior of quantum physics—such as superposition, entanglement, and quantum interference—to perform calculations. Unlike classical computers that use bits (0s and 1s), quantum computers use quantum bits or 'qubits' that can exist in multiple states simultaneously, potentially solving certain problems much faster."
+    }
+  ]
+}
