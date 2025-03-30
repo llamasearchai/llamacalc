@@ -20,18 +20,18 @@ cd .. && mkdocs serve
 
 ## Documentation Structure
 
-- `index.md`: Main landing page
-- `getting_started.md`: Quick start guide
+- `index.html`: Main landing page
+- `getting_started.html`: Quick start guide
 - `user_guide/`: Detailed usage instructions
-  - `cli.md`: Command-line interface documentation
-  - `scoring.md`: Information about scoring methodology
-  - `performance.md`: Performance optimization tips
+  - `cli.html`: Command-line interface documentation
+  - `scoring.html`: Information about scoring methodology
+  - `performance.html`: Performance optimization tips
 - `api/`: API reference documentation
-  - `index.md`: API overview
+  - `index.html`: API overview
 - `examples/`: Example code and usage patterns
-- `faq.md`: Frequently asked questions
-- `contributing.md`: Contribution guidelines
-- `license.md`: License information
+- `faq.html`: Frequently asked questions
+- `contributing.html`: Contribution guidelines
+- `license.html`: License information
 
 ## Adding or Updating Documentation
 
