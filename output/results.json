@@ -1,0 +1,83 @@
+{
+  "results": [
+    {
+      "total_score": 0.5984969162940978,
+      "proximity_score": 0.7671340465545655,
+      "coverage_score": 0.19999999999999998,
+      "conciseness_score": 1.0,
+      "logical_flow_score": 0.6,
+      "computation_time": 0.007288694381713867,
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris. It is located in the north-central part of the country on the Seine River and is one of the world's major cultural and artistic centers.",
+      "timestamp": "2025-03-01T17:40:10.002209"
+    },
+    {
+      "total_score": 0.4853003304958343,
+      "proximity_score": 0.5277152299880982,
+      "coverage_score": 0.15,
+      "conciseness_score": 1.0,
+      "logical_flow_score": 0.528,
+      "computation_time": 0.006585121154785156,
+      "question": "How does photosynthesis work?",
+      "answer": "Photosynthesis is the process by which plants convert light energy into chemical energy. Using chlorophyll in their leaves, plants capture sunlight and use it to convert water and carbon dioxide into glucose and oxygen. The glucose serves as food for the plant, while oxygen is released as a byproduct.",
+      "timestamp": "2025-03-01T17:40:10.002417"
+    },
+    {
+      "total_score": 0.4766148919582367,
+      "proximity_score": 0.3954711198806763,
+      "coverage_score": 0.15,
+      "conciseness_score": 1.0,
+      "logical_flow_score": 0.7160000000000001,
+      "computation_time": 0.0063817501068115234,
+      "question": "What causes climate change?",
+      "answer": "Climate change is primarily caused by human activities that increase greenhouse gas concentrations in the atmosphere. The burning of fossil fuels like coal, oil, and gas releases carbon dioxide, which traps heat in the atmosphere. Deforestation, industrial processes, and some agricultural practices also contribute to the problem.",
+      "timestamp": "2025-03-01T17:40:10.002323"
+    },
+    {
+      "total_score": 0.5496722829818725,
+      "proximity_score": 0.6024922370910645,
+      "coverage_score": 0.19999999999999998,
+      "conciseness_score": 1.0,
+      "logical_flow_score": 0.644,
+      "computation_time": 0.006462812423706055,
+      "question": "Why is the sky blue?",
+      "answer": "The sky appears blue because air molecules scatter sunlight. Specifically, they scatter shorter wavelengths of light (blue) more than longer wavelengths (red). This phenomenon, called Rayleigh scattering, causes the blue light to be scattered across the sky, making it appear blue to our eyes.",
+      "timestamp": "2025-03-01T17:40:10.002496"
+    },
+    {
+      "total_score": 0.525219805240631,
+      "proximity_score": 0.5577708721160889,
+      "coverage_score": 0.19999999999999998,
+      "conciseness_score": 1.0,
+      "logical_flow_score": 0.6,
+      "computation_time": 0.0007510185241699219,
+      "question": "What is artificial intelligence?",
+      "answer": "Artificial intelligence refers to systems or machines that mimic human intelligence to perform tasks and can iteratively improve themselves based on the information they collect. AI encompasses various technologies including machine learning, natural language processing, computer vision, and robotics.",
+      "timestamp": "2025-03-01T17:40:10.002990"
+    },
+    {
+      "total_score": 0.46868212094306944,
+      "proximity_score": 0.3608060598373413,
+      "coverage_score": 0.19999999999999998,
+      "conciseness_score": 1.1666666666666667,
+      "logical_flow_score": 0.537,
+      "computation_time": 0.0007181167602539062,
+      "question": "How do vaccines work?",
+      "answer": "Vaccines work by introducing a weakened or inactive part of a pathogen into the body, which triggers an immune response. This causes the body to produce antibodies that recognize and fight that specific disease-causing organism. If the real pathogen enters the body in the future, the immune system is prepared to quickly destroy it before illness develops.",
+      "timestamp": "2025-03-01T17:40:10.003058"
+    },
+    {
+      "total_score": 0.5127257271607717,
+      "proximity_score": 0.5411211252212524,
+      "coverage_score": 0.19999999999999998,
+      "conciseness_score": 1.2222222222222223,
+      "logical_flow_score": 0.4,
+      "computation_time": 0.0008299350738525391,
+      "question": "What is quantum computing?",
+      "answer": "Quantum computing is a type of computation that harnesses the unique behavior of quantum physics\u2014such as superposition, entanglement, and quantum interference\u2014to perform calculations. Unlike classical computers that use bits (0s and 1s), quantum computers use quantum bits or 'qubits' that can exist in multiple states simultaneously, potentially solving certain problems much faster.",
+      "timestamp": "2025-03-01T17:40:10.003262"
+    }
+  ],
+  "timestamp": "2025-03-01T17:40:10.258911",
+  "count": 7
+}
