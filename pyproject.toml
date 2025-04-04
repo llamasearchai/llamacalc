@@ -3,12 +3,12 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "llamacalc"
+name = "llamacalc-llamasearch"
 dynamic = ["version"]
 description = "Advanced relevance scoring for LLM outputs"
 readme = "README.md"
 authors = [
-    {name = "LlamaSearch.AI Team", email = "info@llamasearch.ai"}
+    {name = "llamacalc-llamasearch", email = "nikjois@llamasearch.ai"}
 ]
 license = {text = "MIT"}
 classifiers = [

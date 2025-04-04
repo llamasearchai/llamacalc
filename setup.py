@@ -30,14 +30,14 @@ def get_long_description():
         return "LlamaCalc - Advanced relevance scoring for LLM outputs"
 
 setup(
-    name="llamacalc",
+    name="llamacalc-llamasearch",
     version=get_version(),
     description="Advanced relevance scoring for LLM outputs",
     long_description=get_long_description(),
     long_description_content_type="text/markdown",
-    author="LlamaSearch.AI Team",
-    author_email="info@llamasearch.ai",
-    url="https://github.com/llamasearch/llamacalc",
+    author="LlamaSearch AI",
+    author_email="nikjois@llamasearch.ai",
+    url="https://llamasearch.ai",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     classifiers=[
