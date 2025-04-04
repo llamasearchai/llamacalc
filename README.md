@@ -2,11 +2,11 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/llamacalc.svg)](https://pypi.org/project/llamacalc/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/llamacalc.svg)](https://pypi.org/project/llamacalc/)
-[![License](https://img.shields.io/github/license/llamasearch/llamacalc.svg)](https://github.com/llamasearch/llamacalc/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/llamasearch/llamacalc.svg)](https://llamasearch.ai
 
 **LlamaCalc** is an advanced relevance scoring tool for evaluating how well answers address questions, specifically designed for assessing LLM-generated responses.
 
-![LlamaCalc Demo](https://github.com/llamasearch/llamacalc/raw/main/docs/images/llamacalc-demo.gif)
+![LlamaCalc Demo](https://llamasearch.ai
 
 ## Features
 
@@ -172,6 +172,6 @@ LlamaCalc is licensed under the MIT License. See the [LICENSE](LICENSE) file for
 
 ## Acknowledgments
 
-- LlamaCalc is developed by the [LlamaSearch.AI](https://llamasearch.ai) team
+- LlamaCalc is developed by the [LlamaSearch.AI](https://llamasearch.ai team
 - Special thanks to the MLX team for their excellent framework
 - Logo design by LlamaSearch.AI
